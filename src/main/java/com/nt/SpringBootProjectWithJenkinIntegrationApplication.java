@@ -15,6 +15,7 @@ public class SpringBootProjectWithJenkinIntegrationApplication {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Application started in amin function=======");
 		SpringApplication.run(SpringBootProjectWithJenkinIntegrationApplication.class, args);
 	}
 
