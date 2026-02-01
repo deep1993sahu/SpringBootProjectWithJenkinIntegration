@@ -12,7 +12,7 @@ public class SpringBootProjectWithJenkinIntegrationApplication {
 	public void init() {
 		System.out.println("Application started=======");
 		System.out.println("Application stared 2========");
-		System.out.println("Application stared 3========");
+		System.out.println("Application stared 4========");
 	}
 
 	public static void main(String[] args) {
