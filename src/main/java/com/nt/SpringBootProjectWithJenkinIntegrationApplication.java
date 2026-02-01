@@ -11,6 +11,7 @@ public class SpringBootProjectWithJenkinIntegrationApplication {
 	@PostConstruct
 	public void init() {
 		System.out.println("Application started=======");
+		System.out.println("Application stared 2========");
 		
 	}
 
